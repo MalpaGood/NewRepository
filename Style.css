@@ -1,0 +1,21 @@
+body,
+html {
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+.left,
+.right {
+    flex: 1;
+}
+.left {
+    background-color: rgba(109, 255, 255, 0.721);
+}
+.right {
+    background-color: rgb(255, 0, 0);
+}
