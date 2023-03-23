@@ -211,7 +211,7 @@ li a {
 }
 
 li a:hover {
-    background-color: #ffebcd;
+    background-color: rgb(133, 255, 253);
 }
 
 *,
