@@ -52,3 +52,7 @@ h2 {
     height: 100%;
     object-fit: cover;
 }
+
+.dropdown-menu.show {
+    display: flex;
+}
