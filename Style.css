@@ -17,10 +17,15 @@
 
 .rightside {
     background-color: red;
+    background-image: url(TloFight.jpg);
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 
 .logo img {
     transition: all 0.3s ease-in-out;
+    max-height: max-content;
 }
 
 .logo:hover img {
