@@ -3,7 +3,7 @@
 }
 
 .c-item2 {
-    height: 400px;
+    height: 300px;
 }
 
 .c-img {
@@ -166,7 +166,6 @@
 
 li {
     float: left;
-    color: white;
 }
 
 li a {
@@ -175,7 +174,6 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
     border-radius: 20px;
-    color: white;
 }
 
 li a:hover {
@@ -227,7 +225,6 @@ h2 {
     text-align: center;
     margin-top: 20px;
     font-size: 40px;
-    color: white;
 }
 
 body {
