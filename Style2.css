@@ -166,6 +166,7 @@
 
 li {
     float: left;
+    color: white;
 }
 
 li a {
@@ -174,6 +175,7 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
     border-radius: 20px;
+    color: white;
 }
 
 li a:hover {
@@ -225,4 +227,13 @@ h2 {
     text-align: center;
     margin-top: 20px;
     font-size: 40px;
+    color: white;
+}
+
+body {
+    background-image: url(IMG_0016.jpg);
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: white;
 }
